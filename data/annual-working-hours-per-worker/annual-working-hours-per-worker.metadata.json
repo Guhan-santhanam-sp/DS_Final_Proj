@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Annual working hours per worker",
+    "subtitle": "Before 1950, the data comes only from full-time production workers (non-agricultural activities). Starting in 1950, estimates cover total hours worked in the economy as measured primarily from National Accounts data.",
+    "note": "We plot the data from Huberman & Minns (2007) and extend coverage using an updated vintage of PWT, which uses the same underlying source. Due to differences in measurement, comparability between countries is limited.",
+    "citation": "Huberman & Minns (2007) and PWT 9.1 (2019)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/annual-working-hours-per-worker?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "Germany",
+      "United States",
+      "France",
+      "Sweden",
+      "Australia",
+      "Belgium"
+    ]
+  },
+  "columns": {
+    "Average annual working hours per worker": {
+      "titleShort": "Average annual working hours per worker",
+      "titleLong": "Average annual working hours per worker",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 143617,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Average annual working hours per worker” [dataset]. Our World in Data based on Huberman & Minns (2007) and PWT 9.1 (2019) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/143617.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-07"
+}
